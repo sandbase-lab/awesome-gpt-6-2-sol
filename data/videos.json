@@ -1,0 +1,581 @@
+[
+ {
+  "id": "2119371334878744648",
+  "title": "Three.js scenes generated from a single prompt",
+  "title_zh": "单提示词生成的Three.js 3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2119371334878744648",
+  "createdAt": "2026-11-08T10:07:56.000Z",
+  "durationMs": 5033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119371334878744648/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119371334878744648/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119371334878744648"
+ },
+ {
+  "id": "2119395930805879165",
+  "title": "A black hole created with Three.js",
+  "title_zh": "用Three.js生成的黑洞场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2119395930805879165",
+  "createdAt": "2026-11-08T11:45:41.000Z",
+  "durationMs": 5566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119395930805879165/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119395930805879165/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119395930805879165"
+ },
+ {
+  "id": "2119407882949288298",
+  "title": "Black hole visual simulation generated in Three.js",
+  "title_zh": "Three.js 一次性生成的黑洞视觉模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "YxzRainy",
+   "name": "兴雨"
+  },
+  "postUrl": "https://x.com/YxzRainy/status/2119407882949288298",
+  "createdAt": "2026-11-08T12:33:10.000Z",
+  "durationMs": 7656,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119407882949288298/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119407882949288298/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119407882949288298"
+ },
+ {
+  "id": "2119409785900552548",
+  "title": "A village shifting from day to night in Three.js",
+  "title_zh": "Three.js构建的昼夜交替村落",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2119409785900552548",
+  "createdAt": "2026-11-08T12:40:44.000Z",
+  "durationMs": 5366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119409785900552548/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119409785900552548/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119409785900552548"
+ },
+ {
+  "id": "2119423600692166703",
+  "title": "A 3D creative scene created with Three.js",
+  "title_zh": "Three.js生成的3D创意场景展示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "TokenGremlin",
+   "name": "Token Gremlin"
+  },
+  "postUrl": "https://x.com/TokenGremlin/status/2119423600692166703",
+  "createdAt": "2026-11-08T13:35:38.000Z",
+  "durationMs": 9900,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119423600692166703/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119423600692166703/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119423600692166703"
+ },
+ {
+  "id": "2119433734059401260",
+  "title": "Comparing Codex and API results for 3D generation",
+  "title_zh": "Codex与API同提示词3D生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "JustinGorya",
+   "name": "Justin"
+  },
+  "postUrl": "https://x.com/JustinGorya/status/2119433734059401260",
+  "createdAt": "2026-11-08T14:15:54.000Z",
+  "durationMs": 6750,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119433734059401260/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119433734059401260/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119433734059401260"
+ },
+ {
+  "id": "2119437126194335764",
+  "title": "Sailing ship rendered in Three.js",
+  "title_zh": "Three.js实时渲染的3D帆船",
+  "category": "3d-scene",
+  "author": {
+   "handle": "marcthecreatorr",
+   "name": "Marcel"
+  },
+  "postUrl": "https://x.com/marcthecreatorr/status/2119437126194335764",
+  "createdAt": "2026-11-08T14:29:22.000Z",
+  "durationMs": 52545,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119437126194335764/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119437126194335764/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119437126194335764"
+ },
+ {
+  "id": "2119437812604838342",
+  "title": "Planet clouds and temple environment rendered from scratch",
+  "title_zh": "从零构建的行星云层与神庙环境",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Mr_Salio",
+   "name": "Salio"
+  },
+  "postUrl": "https://x.com/Mr_Salio/status/2119437812604838342",
+  "createdAt": "2026-11-08T14:32:06.000Z",
+  "durationMs": 50700,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119437812604838342/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119437812604838342/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119437812604838342"
+ },
+ {
+  "id": "2119445773909926181",
+  "title": "A 3D giant ocean wave in Three.js",
+  "title_zh": "Three.js 纯代码生成的 3D 巨浪场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ai_funss",
+   "name": "AI Fun"
+  },
+  "postUrl": "https://x.com/ai_funss/status/2119445773909926181",
+  "createdAt": "2026-11-08T15:03:44.000Z",
+  "durationMs": 5466,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119445773909926181/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119445773909926181/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119445773909926181"
+ },
+ {
+  "id": "2119464819229344113",
+  "title": "Interactive tornado simulation in Three.js",
+  "title_zh": "Three.js中的可交互逼真龙卷风",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Cayden970207",
+   "name": "Cayden 凯登"
+  },
+  "postUrl": "https://x.com/Cayden970207/status/2119464819229344113",
+  "createdAt": "2026-11-08T16:19:25.000Z",
+  "durationMs": 32716,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119464819229344113/video.mp4",
+  "promptShared": true,
+  "promptText": "卧槽卧槽卧槽 ！！灰度到 GPT-6.2-SOL 然后 One Shotted 一个那么逼真的龙卷风🌪️ THE KING IS BACK ！！\n\n这个是 GPT 6.2 SOL MAX ，用时22分钟。 \n\n我真的只写了 ：「生成一个画面非常逼真的龙卷风 ，要在threejs 场景里面可以互动」\n\n感动啊 GPT 元神归位",
+  "featured": 1,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119464819229344113/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119464819229344113"
+ },
+ {
+  "id": "2119465155109196254",
+  "title": "Simulation of a supernova explosion in 3D",
+  "title_zh": "电影级3D超新星爆发模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "pankajkumar_dev",
+   "name": "Pankaj Kumar"
+  },
+  "postUrl": "https://x.com/pankajkumar_dev/status/2119465155109196254",
+  "createdAt": "2026-11-08T16:20:45.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119465155109196254/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119465155109196254/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119465155109196254"
+ },
+ {
+  "id": "2119469657291997366",
+  "title": "Simulation of a black hole with gravitational lensing",
+  "title_zh": "带引力透镜效果的3D黑洞模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "pankajkumar_dev",
+   "name": "Pankaj Kumar"
+  },
+  "postUrl": "https://x.com/pankajkumar_dev/status/2119469657291997366",
+  "createdAt": "2026-11-08T16:38:38.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119469657291997366/video.mp4",
+  "promptShared": false,
+  "featured": 0,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119469657291997366/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119469657291997366"
+ },
+ {
+  "id": "2119473497504428334",
+  "title": "Animated SVGs comparison between two models",
+  "title_zh": "两款模型的SVG动画效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Ananth7e",
+   "name": "Ananth"
+  },
+  "postUrl": "https://x.com/Ananth7e/status/2119473497504428334",
+  "createdAt": "2026-11-08T16:53:54.000Z",
+  "durationMs": 137000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119473497504428334/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119473497504428334/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119473497504428334"
+ },
+ {
+  "id": "2119473712751649201",
+  "title": "Comparing GPT-6.2 Sol and Opus 5.5 animation generation",
+  "title_zh": "GPT-6.2 Sol与Opus 5.5动画生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vikktorrrre",
+   "name": "Veee"
+  },
+  "postUrl": "https://x.com/vikktorrrre/status/2119473712751649201",
+  "createdAt": "2026-11-08T16:54:45.000Z",
+  "durationMs": 35466,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119473712751649201/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119473712751649201/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119473712751649201"
+ },
+ {
+  "id": "2119474833738354867",
+  "title": "A 3D Gundam running in Three.js",
+  "title_zh": "单文件 Three.js 运行的 3D 高达模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Cayden970207",
+   "name": "Cayden 凯登"
+  },
+  "postUrl": "https://x.com/Cayden970207/status/2119474833738354867",
+  "createdAt": "2026-11-08T16:59:12.000Z",
+  "durationMs": 21307,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119474833738354867/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119474833738354867/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119474833738354867"
+ },
+ {
+  "id": "2119483038924972047",
+  "title": "Black hole scene comparison between two models",
+  "title_zh": "两款模型生成黑洞场景效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "k0dzilla",
+   "name": "Kodzilla"
+  },
+  "postUrl": "https://x.com/k0dzilla/status/2119483038924972047",
+  "createdAt": "2026-11-08T17:31:49.000Z",
+  "durationMs": 11700,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119483038924972047/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119483038924972047/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119483038924972047"
+ },
+ {
+  "id": "2119495488445497489",
+  "title": "Code-generated motion test with animations and glitch effects",
+  "title_zh": "代码生成的动作测试包含动画与故障效果",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "BreezeOg1",
+   "name": "BreezeOg"
+  },
+  "postUrl": "https://x.com/BreezeOg1/status/2119495488445497489",
+  "createdAt": "2026-11-08T18:21:17.000Z",
+  "durationMs": 22674,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119495488445497489/video.mp4",
+  "promptShared": false,
+  "featured": 2,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119495488445497489/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119495488445497489"
+ },
+ {
+  "id": "2119503807654535300",
+  "title": "Night windows scene comparison between two models",
+  "title_zh": "两款模型生成夜间窗景同提示词对比",
+  "category": "comparison",
+  "author": {
+   "handle": "theaidesk_",
+   "name": "AI Desk"
+  },
+  "postUrl": "https://x.com/theaidesk_/status/2119503807654535300",
+  "createdAt": "2026-11-08T18:54:20.000Z",
+  "durationMs": 30450,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119503807654535300/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119503807654535300/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119503807654535300"
+ },
+ {
+  "id": "2119507514459144677",
+  "title": "An interactive Three.js scene of the end of time",
+  "title_zh": "以《时间的尽头》为主题的交互式3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Khazix0918",
+   "name": "数字生命卡兹克"
+  },
+  "postUrl": "https://x.com/Khazix0918/status/2119507514459144677",
+  "createdAt": "2026-11-08T19:09:04.000Z",
+  "durationMs": 18000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119507514459144677/video.mp4",
+  "promptShared": true,
+  "promptText": "灰度路由到了GPT-6.2 Sol，简单测了一下，这个审美，强到爆炸，并且防御性问题有很不错的改善，这个模型有点香啊！！！\n感觉要提前开香槟恭喜OpenAI回归了？？？\n\nPrompt：“请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交互式网页。\n充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、粒子、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。\n不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。”",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119507514459144677/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119507514459144677"
+ },
+ {
+  "id": "2119516309851361758",
+  "title": "Prompt test comparison with AI models",
+  "title_zh": "相同提示词的模型生成效果测试对比",
+  "category": "comparison",
+  "author": {
+   "handle": "theaidesk_",
+   "name": "AI Desk"
+  },
+  "postUrl": "https://x.com/theaidesk_/status/2119516309851361758",
+  "createdAt": "2026-11-08T19:44:01.000Z",
+  "durationMs": 43000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119516309851361758/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119516309851361758/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119516309851361758"
+ },
+ {
+  "id": "2119521331637285138",
+  "title": "3D kitchen scene rendered with GPT-6.2 Sol",
+  "title_zh": "GPT-6.2 Sol 渲染的 3D 厨房场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "mirochill",
+   "name": "Mirochill"
+  },
+  "postUrl": "https://x.com/mirochill/status/2119521331637285138",
+  "createdAt": "2026-11-08T20:03:58.000Z",
+  "durationMs": 43816,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119521331637285138/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119521331637285138/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119521331637285138"
+ },
+ {
+  "id": "2119527377109672111",
+  "title": "Comparison of Three.js 3D output between two models",
+  "title_zh": "两款模型的Three.js 3D设计对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2119527377109672111",
+  "createdAt": "2026-11-08T20:28:00.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119527377109672111/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119527377109672111/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119527377109672111"
+ },
+ {
+  "id": "2119542842393530713",
+  "title": "A portrait rendered by GPT-6.2 Sol",
+  "title_zh": "GPT-6.2 Sol 渲染的人物肖像",
+  "category": "3d-scene",
+  "author": {
+   "handle": "theaidesk_",
+   "name": "AI Desk"
+  },
+  "postUrl": "https://x.com/theaidesk_/status/2119542842393530713",
+  "createdAt": "2026-11-08T21:29:27.000Z",
+  "durationMs": 22100,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119542842393530713/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119542842393530713/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119542842393530713"
+ },
+ {
+  "id": "2119626286373261752",
+  "title": "A purple furball with teeth generated in Three.js",
+  "title_zh": "Three.js 生成的长牙紫色毛球",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AnikaCodes",
+   "name": "Anika 🎀❤️"
+  },
+  "postUrl": "https://x.com/AnikaCodes/status/2119626286373261752",
+  "createdAt": "2026-11-09T03:01:02.000Z",
+  "durationMs": 3631,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119626286373261752/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119626286373261752/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119626286373261752"
+ },
+ {
+  "id": "2119673965576655211",
+  "title": "A space pirate game created with one prompt",
+  "title_zh": "单提示词生成的太空海盗游戏",
+  "category": "game",
+  "author": {
+   "handle": "Thomas_jorgen",
+   "name": "Thomas Jørgensen"
+  },
+  "postUrl": "https://x.com/Thomas_jorgen/status/2119673965576655211",
+  "createdAt": "2026-11-09T06:10:29.000Z",
+  "durationMs": 61881,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119673965576655211/video.mp4",
+  "promptShared": false,
+  "featured": 4,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119673965576655211/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119673965576655211"
+ },
+ {
+  "id": "2119728047754547326",
+  "title": "A rug racing game comparison between two models",
+  "title_zh": "两款模型地毯赛车游戏生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2119728047754547326",
+  "createdAt": "2026-11-09T09:45:23.000Z",
+  "durationMs": 74300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119728047754547326/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119728047754547326/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119728047754547326"
+ },
+ {
+  "id": "2119743048364277820",
+  "title": "Webpage design comparison between two models",
+  "title_zh": "两款模型单文件前端网页审美比拼",
+  "category": "comparison",
+  "author": {
+   "handle": "Stargridcompass",
+   "name": "高运通"
+  },
+  "postUrl": "https://x.com/Stargridcompass/status/2119743048364277820",
+  "createdAt": "2026-11-09T10:45:00.000Z",
+  "durationMs": 15833,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/video.mp4",
+  "promptShared": true,
+  "promptText": "同一句提示词，让 GPT-6.2 Sol 和 Claude Opus 5.5 比拼前端审美。\n\n提示词：做一个让人看了就想截图分享的网页，主题自定，单文件 HTML，不使用外部图片。\n\n左边GPT-6.2 Sol，右边Opus 5.5\nGPT-6.2 的前端审美能力提升非常明显。\n这两款作品，你觉得哪个更胜一筹？",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820"
+ },
+ {
+  "id": "2119802691530445058",
+  "title": "3D brain and Elden Ring game test",
+  "title_zh": "3D 大脑与类艾尔登法环视觉测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Ionkosm",
+   "name": "Ion"
+  },
+  "postUrl": "https://x.com/Ionkosm/status/2119802691530445058",
+  "createdAt": "2026-11-09T14:42:00.000Z",
+  "durationMs": 36000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119802691530445058/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119802691530445058/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119802691530445058"
+ },
+ {
+  "id": "2119984136731738255",
+  "title": "Voxel Eiffel Tower construction scene in Three.js",
+  "title_zh": "Three.js 纯代码生成的体素埃菲尔铁塔施工场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "cfenghub",
+   "name": "CF长风"
+  },
+  "postUrl": "https://x.com/cfenghub/status/2119984136731738255",
+  "createdAt": "2026-11-10T02:43:00.000Z",
+  "durationMs": 41429,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119984136731738255/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119984136731738255/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119984136731738255"
+ },
+ {
+  "id": "2120107337650155798",
+  "title": "Childhood rug turned into a playable game",
+  "title_zh": "将童年地毯制作成可玩赛车游戏",
+  "category": "game",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2120107337650155798",
+  "createdAt": "2026-11-10T10:52:33.000Z",
+  "durationMs": 54800,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120107337650155798/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120107337650155798/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120107337650155798"
+ },
+ {
+  "id": "2120490910278418869",
+  "title": "Playable 3D excavator game",
+  "title_zh": "可玩的3D挖掘机游戏",
+  "category": "game",
+  "author": {
+   "handle": "Frtnel",
+   "name": "Fortune"
+  },
+  "postUrl": "https://x.com/Frtnel/status/2120490910278418869",
+  "createdAt": "2026-11-11T12:16:44.000Z",
+  "durationMs": 35510,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120490910278418869/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120490910278418869/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120490910278418869"
+ },
+ {
+  "id": "2120545025893474415",
+  "title": "Mechanical butterfly created in Three.js",
+  "title_zh": "使用Three.js构建的机械蝴蝶",
+  "category": "3d-scene",
+  "author": {
+   "handle": "dragono64v",
+   "name": "dragon"
+  },
+  "postUrl": "https://x.com/dragono64v/status/2120545025893474415",
+  "createdAt": "2026-11-11T15:51:46.000Z",
+  "durationMs": 25877,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120545025893474415/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120545025893474415/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120545025893474415"
+ }
+]
