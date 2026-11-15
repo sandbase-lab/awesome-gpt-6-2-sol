@@ -994,5 +994,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120545025893474415/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120545025893474415"
+ },
+ {
+  "id": "2121502334866096160",
+  "title": "Three.js 3D island generation speed and cost comparison",
+  "title_zh": "Three.js 3D海岛任务生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "laopai1990",
+   "name": "Patrick 老派"
+  },
+  "postUrl": "https://x.com/laopai1990/status/2121502334866096160",
+  "createdAt": "2026-11-14T07:15:46.000Z",
+  "durationMs": 66363,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121502334866096160/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121502334866096160/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121502334866096160"
+ },
+ {
+  "id": "2121532503022514662",
+  "title": "Comparing outputs of three different AI models",
+  "title_zh": "三款不同AI模型同提示词效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "jayakavuru",
+   "name": "jayaaaaa"
+  },
+  "postUrl": "https://x.com/jayakavuru/status/2121532503022514662",
+  "createdAt": "2026-11-14T09:15:39.000Z",
+  "durationMs": 42956,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121532503022514662/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121555574869360796/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121532503022514662"
  }
 ]

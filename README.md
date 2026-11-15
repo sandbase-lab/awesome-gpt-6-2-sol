@@ -2,13 +2,13 @@
 
 English · [简体中文](README.zh-CN.md)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-55-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-6-green)](docs/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-57-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-6-green)](docs/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol)
 
 [![Awesome GPT-6.2 Sol: videos, prompts, tutorial and model comparison](assets/banner.png)](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=banner)
 
 A curated list of **GPT-6.2 Sol examples**: videos, prompts and demos made with GPT-6.2 Sol, OpenAI's model announced on November 8, 2026. Mostly Three.js 3D scenes and playable pages, plus head-to-head comparisons with other models, each one credited to its creator and linked to the original post.
 
-**55 videos** from **42 creators** · **6** with the creator's prompt · synced daily from [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=stats)
+**57 videos** from **44 creators** · **6** with the creator's prompt · synced daily from [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=stats)
 
 ## Start here
 
@@ -30,7 +30,7 @@ A curated list of **GPT-6.2 Sol examples**: videos, prompts and demos made with 
 - [Motion graphics](#motion-graphics) (5)
 - [Games](#game) (5)
 - [Launch films](#launch-film) (1)
-- [Tests & comparisons](#comparison) (11)
+- [Tests & comparisons](#comparison) (13)
 - [Recreate a video with GPT-6.2 Sol](#recreate)
 - [FAQ](#faq)
 - [Suggest a video](#contribute)
@@ -109,16 +109,17 @@ Click a preview to play the video. Click a title for the post, the prompt and **
 </table>
 
 <details>
-<summary><b>Show all 11</b></summary>
+<summary><b>Show all 13</b></summary>
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119516309851361758/video.mp4"><img src="previews/2119516309851361758.webp" alt="Prompt test comparison with AI models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119516309851361758?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Prompt test comparison with AI models</b></a><br><sub><a href="https://x.com/theaidesk_/status/2119516309851361758">@theaidesk_</a> · 0:43</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119527377109672111/video.mp4"><img src="previews/2119527377109672111.webp" alt="Comparison of Three.js 3D output between two models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119527377109672111?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Comparison of Three.js 3D output between two models</b></a><br><sub><a href="https://x.com/EnvolDev/status/2119527377109672111">@EnvolDev</a> · 0:25</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119728047754547326/video.mp4"><img src="previews/2119728047754547326.webp" alt="A rug racing game comparison between two models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119728047754547326?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>A rug racing game comparison between two models</b></a><br><sub><a href="https://x.com/noclipepe/status/2119728047754547326">@noclipepe</a> · 1:14</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/video.mp4"><img src="previews/2119743048364277820.webp" alt="Webpage design comparison between two models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Webpage design comparison between two models</b></a><br><sub><a href="https://x.com/Stargridcompass/status/2119743048364277820">@Stargridcompass</a> · 0:16 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">prompt</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/video.mp4"><img src="previews/2120011319470346591.webp" alt="Comparing 3D medieval village renderings in Three.js" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Comparing 3D medieval village renderings in Three.js</b></a><br><sub><a href="https://x.com/YFeng2022/status/2120011319470346591">@YFeng2022</a> · 0:21 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">prompt</a></sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/video.mp4"><img src="previews/2119743048364277820.webp" alt="Webpage design comparison between two models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Webpage design comparison between two models</b></a><br><sub><a href="https://x.com/Stargridcompass/status/2119743048364277820">@Stargridcompass</a> · 0:16 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">prompt</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/video.mp4"><img src="previews/2120011319470346591.webp" alt="Comparing 3D medieval village renderings in Three.js" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Comparing 3D medieval village renderings in Three.js</b></a><br><sub><a href="https://x.com/YFeng2022/status/2120011319470346591">@YFeng2022</a> · 0:21 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">prompt</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121502334866096160/video.mp4"><img src="previews/2121502334866096160.webp" alt="Three.js 3D island generation speed and cost comparison" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121502334866096160?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Three.js 3D island generation speed and cost comparison</b></a><br><sub><a href="https://x.com/laopai1990/status/2121502334866096160">@laopai1990</a> · 1:06</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121532503022514662/video.mp4"><img src="previews/2121532503022514662.webp" alt="Comparing outputs of three different AI models" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121532503022514662?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Comparing outputs of three different AI models</b></a><br><sub><a href="https://x.com/jayakavuru/status/2121532503022514662">@jayakavuru</a> · 0:43</sub></td></tr>
 </table>
 
 </details>
 
-**[See all 55 on SandBase Lab →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=section)**
+**[See all 57 on SandBase Lab →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=section)**
 
 <a id="recreate"></a>
 

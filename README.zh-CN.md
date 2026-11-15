@@ -2,13 +2,13 @@
 
 [English](README.md) · 简体中文
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-55-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-6-green)](docs/zh-CN/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-57-blue)](#contents) [![Prompts](https://img.shields.io/badge/prompts-6-green)](docs/zh-CN/prompts.md) [![Sync](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml/badge.svg)](https://github.com/sandbase-lab/awesome-gpt-6-2-sol/actions/workflows/sync.yml) [![Run on SandBase](https://img.shields.io/badge/run%20on-SandBase-black)](https://www.sandbase.ai/model/openai/gpt-6.2-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol)
 
 [![Awesome GPT-6.2 Sol：视频、提示词、教程和模型对比](assets/banner.png)](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=banner)
 
 精选 **GPT-6.2 Sol 案例**合集：用 GPT-6.2 Sol（OpenAI 的模型，2026 年 11 月 8 日宣布）做出的视频、提示词和演示。以 Three.js 3D 场景和可在浏览器里玩的页面为主，也包括与其他模型的同提示词对比；均注明作者并链接原帖。
 
-共 **55 条视频**，来自 **42 位创作者** · **6 条**附作者提示词 · 每天从 [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=stats) 同步
+共 **57 条视频**，来自 **44 位创作者** · **6 条**附作者提示词 · 每天从 [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=stats) 同步
 
 ## 从这里开始
 
@@ -30,7 +30,7 @@
 - [动效](#motion-graphics) (5)
 - [游戏](#game) (5)
 - [发布片](#launch-film) (1)
-- [测试对比](#comparison) (11)
+- [测试对比](#comparison) (13)
 - [用 GPT-6.2 Sol 复刻视频](#recreate)
 - [常见问题](#faq)
 - [推荐作品](#contribute)
@@ -109,16 +109,17 @@
 </table>
 
 <details>
-<summary><b>展开全部 11 条</b></summary>
+<summary><b>展开全部 13 条</b></summary>
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119516309851361758/video.mp4"><img src="previews/2119516309851361758.webp" alt="相同提示词的模型生成效果测试对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119516309851361758?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>相同提示词的模型生成效果测试对比</b></a><br><sub><a href="https://x.com/theaidesk_/status/2119516309851361758">@theaidesk_</a> · 0:43</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119527377109672111/video.mp4"><img src="previews/2119527377109672111.webp" alt="两款模型的Three.js 3D设计对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119527377109672111?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>两款模型的Three.js 3D设计对比</b></a><br><sub><a href="https://x.com/EnvolDev/status/2119527377109672111">@EnvolDev</a> · 0:25</sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119728047754547326/video.mp4"><img src="previews/2119728047754547326.webp" alt="两款模型地毯赛车游戏生成效果对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119728047754547326?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>两款模型地毯赛车游戏生成效果对比</b></a><br><sub><a href="https://x.com/noclipepe/status/2119728047754547326">@noclipepe</a> · 1:14</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/video.mp4"><img src="previews/2119743048364277820.webp" alt="两款模型单文件前端网页审美比拼" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>两款模型单文件前端网页审美比拼</b></a><br><sub><a href="https://x.com/Stargridcompass/status/2119743048364277820">@Stargridcompass</a> · 0:16 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">提示词</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/video.mp4"><img src="previews/2120011319470346591.webp" alt="Three.js中世纪微缩村庄生成效果对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Three.js中世纪微缩村庄生成效果对比</b></a><br><sub><a href="https://x.com/YFeng2022/status/2120011319470346591">@YFeng2022</a> · 0:21 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">提示词</a></sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119743048364277820/video.mp4"><img src="previews/2119743048364277820.webp" alt="两款模型单文件前端网页审美比拼" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>两款模型单文件前端网页审美比拼</b></a><br><sub><a href="https://x.com/Stargridcompass/status/2119743048364277820">@Stargridcompass</a> · 0:16 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119743048364277820?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">提示词</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/video.mp4"><img src="previews/2120011319470346591.webp" alt="Three.js中世纪微缩村庄生成效果对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Three.js中世纪微缩村庄生成效果对比</b></a><br><sub><a href="https://x.com/YFeng2022/status/2120011319470346591">@YFeng2022</a> · 0:21 · <a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card">提示词</a></sub></td><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121502334866096160/video.mp4"><img src="previews/2121502334866096160.webp" alt="Three.js 3D海岛任务生成对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121502334866096160?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>Three.js 3D海岛任务生成对比</b></a><br><sub><a href="https://x.com/laopai1990/status/2121502334866096160">@laopai1990</a> · 1:06</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2121532503022514662/video.mp4"><img src="previews/2121532503022514662.webp" alt="三款不同AI模型同提示词效果对比" width="100%"></a><br><a href="https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121532503022514662?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=card"><b>三款不同AI模型同提示词效果对比</b></a><br><sub><a href="https://x.com/jayakavuru/status/2121532503022514662">@jayakavuru</a> · 0:43</sub></td></tr>
 </table>
 
 </details>
 
-**[在 SandBase Lab 查看全部 55 条 →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=section)**
+**[在 SandBase Lab 查看全部 57 条 →](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol?lang=zh-CN&utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-6-2-sol&utm_content=section)**
 
 <a id="recreate"></a>
 
