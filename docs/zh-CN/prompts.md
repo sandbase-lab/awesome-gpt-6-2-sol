@@ -2,13 +2,13 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 6 条 GPT-6.2 Sol 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Sol 一键 **复刻**。第一次写 GPT-6.2 Sol 提示词？先看 [提示词写法](prompt-guide.md)。
+共 8 条 GPT-6.2 Sol 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 GPT-6.2 Sol 一键 **复刻**。第一次写 GPT-6.2 Sol 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (3)
 - [动效](#motion-graphics) (1)
-- [测试对比](#comparison) (2)
+- [测试对比](#comparison) (4)
 
 <a id="3d-scene"></a>
 
@@ -99,4 +99,28 @@ GPT-6.2 的前端审美能力提升非常明显。
 但是这个效果是实实在在的差距！
 
 #GPT #Threejs #AI #opus5 #OpenAI #GPT62sol #大模型 #codex #Fable5
+```
+
+### 三个AI模型的横向对比演示
+
+[@VamsiBuilds](https://x.com/VamsiBuilds/status/2121913603624419568) · 0:43 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2121913603624419568/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2121913603624419568?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-sol&utm_content=prompt-index)
+
+```text
+Same prompt
+
+Fable5.2 -> GPT-6.2 Sol -> Gemini 4 Hydrogen
+```
+
+### 鹈鹕雨夜骑车送外卖的AI模型对比
+
+[@xiax0603](https://x.com/xiax0603/status/2122322734281830648) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122322734281830648/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122322734281830648?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gpt-6-2-sol&utm_content=prompt-index)
+
+```text
+🔥同prompt“雨夜鹈鹕骑车送外卖”横向测试结果出炉：
+
+Claude Opus 5.5质感直接封神——雨丝、霓虹、地面倒影全拉满，画面叙事感和光影精度一骑绝尘，顶流实力没半点水分
+
+GPT-6.2 Sol稳居中游，构图完整动态自然，雨夜氛围到位，但精致度和高级感比Opus差了一截，属于优等生但没到尖子生
+
+Qwen4-Max这次总算交了合格卷，角色场景没崩，终于能上牌桌了，但细节、光影、整体质感和前两位差得不是一星半点，国模追前沿的路还长
 ```
