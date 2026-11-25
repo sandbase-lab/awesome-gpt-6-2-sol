@@ -285,7 +285,7 @@
   "durationMs": 30000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119469657291997366/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119469657291997366/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119469657291997366"
  },
@@ -378,24 +378,6 @@
   "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119495488445497489/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119495488445497489"
- },
- {
-  "id": "2119503047646908664",
-  "title": "Interactive 3D city in Three.js",
-  "title_zh": "Three.js可交互3D城市",
-  "category": "3d-scene",
-  "author": {
-   "handle": "teddyaisi",
-   "name": "Teddy"
-  },
-  "postUrl": "https://x.com/teddyaisi/status/2119503047646908664",
-  "createdAt": "2026-11-08T18:51:19.000Z",
-  "durationMs": 19968,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119503047646908664/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119503047646908664/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119503047646908664"
  },
  {
   "id": "2119503807654535300",
@@ -905,25 +887,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119999248594837956"
  },
  {
-  "id": "2120011319470346591",
-  "title": "Comparing 3D medieval village renderings in Three.js",
-  "title_zh": "Three.js中世纪微缩村庄生成效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "YFeng2022",
-   "name": "LanFeng"
-  },
-  "postUrl": "https://x.com/YFeng2022/status/2120011319470346591",
-  "createdAt": "2026-11-10T04:31:01.000Z",
-  "durationMs": 21200,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/video.mp4",
-  "promptShared": true,
-  "promptText": "同样的提示词：用 HTML + Three.js 制作一个精致、可交互的 3D 中世纪村庄，呈现夕阳下的微缩沙盘效果。 \n这次使用codex选中的是GPT-6.1 Sol Max  \n\n跟gpt 中的GPT-6.1 Sol Max，差距太大了，一股3D塑料味，高下立判。\n\n大伙评判一下是不是这个理？是不是GPT-6.2 Sol  不好说\n但是这个效果是实实在在的差距！\n\n#GPT #Threejs #AI #opus5 #OpenAI #GPT62sol #大模型 #codex #Fable5",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120011319470346591/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120011319470346591"
- },
- {
   "id": "2120024150114713936",
   "title": "Dynamic voxel racing animation in Three.js",
   "title_zh": "Three.js动态体素赛车短片",
@@ -1134,7 +1097,7 @@
   },
   "postUrl": "https://x.com/gadi_neelesh/status/2122617514454860111",
   "createdAt": "2026-11-17T09:07:06.000Z",
-  "durationMs": 9200,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122617514454860111/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1152,7 +1115,7 @@
   },
   "postUrl": "https://x.com/nickbaumann_/status/2122753176113688601",
   "createdAt": "2026-11-17T18:06:10.000Z",
-  "durationMs": 66083,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122753176113688601/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1170,7 +1133,7 @@
   },
   "postUrl": "https://x.com/LuminaBench/status/2122758425520029886",
   "createdAt": "2026-11-17T18:27:02.000Z",
-  "durationMs": 39166,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122758425520029886/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1188,7 +1151,7 @@
   },
   "postUrl": "https://x.com/LDT0545/status/2122760690855264453",
   "createdAt": "2026-11-17T18:36:02.000Z",
-  "durationMs": 12060,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122760690855264453/video.mp4",
   "promptShared": false,
   "featured": 5,
@@ -1224,7 +1187,7 @@
   },
   "postUrl": "https://x.com/morsenxxx/status/2122771021828948464",
   "createdAt": "2026-11-17T19:17:05.000Z",
-  "durationMs": 30000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122771021828948464/video.mp4",
   "promptShared": false,
   "featured": 2,
@@ -1242,7 +1205,7 @@
   },
   "postUrl": "https://x.com/TimJayas/status/2122780669973787008",
   "createdAt": "2026-11-17T19:55:25.000Z",
-  "durationMs": 37802,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122780669973787008/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1260,7 +1223,7 @@
   },
   "postUrl": "https://x.com/lucian__03/status/2122782073102663874",
   "createdAt": "2026-11-17T20:01:00.000Z",
-  "durationMs": 21000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122782073102663874/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1278,7 +1241,7 @@
   },
   "postUrl": "https://x.com/EnvolDev/status/2122788867694858629",
   "createdAt": "2026-11-17T20:28:00.000Z",
-  "durationMs": 25000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122788867694858629/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1296,7 +1259,7 @@
   },
   "postUrl": "https://x.com/Mr_Salio/status/2122790293095448948",
   "createdAt": "2026-11-17T20:33:40.000Z",
-  "durationMs": 20333,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122790293095448948/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1314,7 +1277,7 @@
   },
   "postUrl": "https://x.com/TimJayas/status/2122793921239724521",
   "createdAt": "2026-11-17T20:48:05.000Z",
-  "durationMs": 29141,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122793921239724521/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1332,7 +1295,7 @@
   },
   "postUrl": "https://x.com/EnvolDev/status/2122803967272866254",
   "createdAt": "2026-11-17T21:28:00.000Z",
-  "durationMs": 25000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122803967272866254/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1350,10 +1313,10 @@
   },
   "postUrl": "https://x.com/DeryaTR_/status/2122814594737684568",
   "createdAt": "2026-11-17T22:10:14.000Z",
-  "durationMs": 90005,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122814594737684568/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122814594737684568/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122814594737684568"
  },
@@ -1368,13 +1331,31 @@
   },
   "postUrl": "https://x.com/simonw/status/2122822310428279136",
   "createdAt": "2026-11-17T22:40:53.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122822310428279136/video.mp4",
   "promptShared": true,
-  "promptText": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" https://t.co/oRZT2zMByi",
+  "promptText": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122822310428279136/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122822310428279136"
+ },
+ {
+  "id": "2122825359892623413",
+  "title": "Plant growth simulation comparison in Three.js",
+  "title_zh": "植物生长模拟的三维模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Mayuu_France",
+   "name": "Mayuu_"
+  },
+  "postUrl": "https://x.com/Mayuu_France/status/2122825359892623413",
+  "createdAt": "2026-11-17T22:53:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122825359892623413/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122825359892623413/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122825359892623413"
  },
  {
   "id": "2122833050123825445",
@@ -1393,6 +1374,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122833050123825445/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122833050123825445"
+ },
+ {
+  "id": "2122842995162763637",
+  "title": "Historical castle town scene in Three.js",
+  "title_zh": "Three.js制作的安土桃山时代城下町",
+  "category": "comparison",
+  "author": {
+   "handle": "takamasa045",
+   "name": "伊藤貴將（いとぱん）｜AI創作ラボ 仲間募集中🤝"
+  },
+  "postUrl": "https://x.com/takamasa045/status/2122842995162763637",
+  "createdAt": "2026-11-18T00:03:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122842995162763637/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122842995162763637/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122842995162763637"
  },
  {
   "id": "2122843995923791990",
@@ -1431,6 +1430,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122861806767272140"
  },
  {
+  "id": "2122875167156363504",
+  "title": "Luffy dancing in a Three.js scene",
+  "title_zh": "路飞在三维场景中跳舞",
+  "category": "3d-scene",
+  "author": {
+   "handle": "NeoAIForecast",
+   "name": "Neo"
+  },
+  "postUrl": "https://x.com/NeoAIForecast/status/2122875167156363504",
+  "createdAt": "2026-11-18T02:10:55.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122875167156363504/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122875167156363504/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122875167156363504"
+ },
+ {
   "id": "2122885577137598800",
   "title": "Playable fake ad game model comparison",
   "title_zh": "可玩虚假广告游戏多模型对比",
@@ -1459,12 +1476,30 @@
   },
   "postUrl": "https://x.com/teddyaisi/status/2122904937655148597",
   "createdAt": "2026-11-18T04:09:13.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122904937655148597/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122904937655148597/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122904937655148597"
+ },
+ {
+  "id": "2122911971091910932",
+  "title": "A customizable 3D Ferrari car in Three.js",
+  "title_zh": "可拆解的三维交互式法拉利跑车",
+  "category": "3d-scene",
+  "author": {
+   "handle": "cfenghub",
+   "name": "CF长风"
+  },
+  "postUrl": "https://x.com/cfenghub/status/2122911971091910932",
+  "createdAt": "2026-11-18T04:37:10.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122911971091910932/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122911971091910932/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122911971091910932"
  },
  {
   "id": "2122924848032993560",
@@ -1513,7 +1548,7 @@
   },
   "postUrl": "https://x.com/StatsWire/status/2122953325049938227",
   "createdAt": "2026-11-18T07:21:29.000Z",
-  "durationMs": 14000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122953325049938227/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1568,7 +1603,7 @@
   },
   "postUrl": "https://x.com/exploraX_/status/2122964994463555589",
   "createdAt": "2026-11-18T08:07:52.000Z",
-  "durationMs": 56600,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122964994463555589/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1586,7 +1621,7 @@
   },
   "postUrl": "https://x.com/Frtnel/status/2122978116658217127",
   "createdAt": "2026-11-18T09:00:00.000Z",
-  "durationMs": 26978,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122978116658217127/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1604,7 +1639,7 @@
   },
   "postUrl": "https://x.com/teddyaisi/status/2122982650042597803",
   "createdAt": "2026-11-18T09:18:01.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2122982650042597803/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1659,7 +1694,7 @@
   },
   "postUrl": "https://x.com/cfenghub/status/2123011032692261340",
   "createdAt": "2026-11-18T11:10:48.000Z",
-  "durationMs": 31514,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123011032692261340/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1713,7 +1748,7 @@
   },
   "postUrl": "https://x.com/alohaproxy/status/2123030965777821985",
   "createdAt": "2026-11-18T12:30:00.000Z",
-  "durationMs": 48333,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123030965777821985/video.mp4",
   "promptShared": true,
   "promptText": "GPT-6.2 ASTRA vs GPT-6.2 SOL is actually wild 😳\n\nI gave both models the exact same massive Three.js challenge: build a cinematic sci-fi mech that assembles itself, powers up, and launches into the sky.\n\nAstra wins on visuals imo, but Sol gets surprisingly close for nearly 3x less money.\n\nComplete cost/token breakdown and prompt below 👇",
@@ -1750,7 +1785,7 @@
   },
   "postUrl": "https://x.com/jonson_coder/status/2123060685647261951",
   "createdAt": "2026-11-18T14:28:06.000Z",
-  "durationMs": 31997,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123060685647261951/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1787,7 +1822,7 @@
   },
   "postUrl": "https://x.com/teddyaisi/status/2123070036348727301",
   "createdAt": "2026-11-18T15:05:16.000Z",
-  "durationMs": 20000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2123070036348727301/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -1831,24 +1866,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123088360264929712"
  },
  {
-  "id": "2123091774520623462",
-  "title": "Stormbreak lighthouse scene model comparison",
-  "title_zh": "风暴灯塔场景多模型生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "EnvolDev",
-   "name": "Tony"
-  },
-  "postUrl": "https://x.com/EnvolDev/status/2123091774520623462",
-  "createdAt": "2026-11-18T16:31:38.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123091774520623462/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123091774520623462/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123091774520623462"
- },
- {
   "id": "2123149825025708464",
   "title": "Playable 3D driving game generated in HTML",
   "title_zh": "三款模型单HTML生成的3D赛车游戏对比",
@@ -1866,5 +1883,389 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123149825025708464/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123149825025708464"
+ },
+ {
+  "id": "2123245309983961285",
+  "title": "Three.js benchmark test comparing multiple AI models",
+  "title_zh": "多个AI模型的Three.js基准测试对比",
+  "category": "comparison",
+  "author": {
+   "handle": "mylesBaiM",
+   "name": "myles bsi"
+  },
+  "postUrl": "https://x.com/mylesBaiM/status/2123245309983961285",
+  "createdAt": "2026-11-19T02:41:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123164032882659819/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123164032882659819/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123245309983961285"
+ },
+ {
+  "id": "2123249653907075290",
+  "title": "Aegean island at dusk in Three.js",
+  "title_zh": "Three.js爱琴海岛黄昏场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Yuziyyaa",
+   "name": "Youzi"
+  },
+  "postUrl": "https://x.com/Yuziyyaa/status/2123249653907075290",
+  "createdAt": "2026-11-19T02:59:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123249653907075290/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123249653907075290/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123249653907075290"
+ },
+ {
+  "id": "2123317934177317320",
+  "title": "A hummingbird with ten thousand feathers",
+  "title_zh": "使用Three.js构建的万羽蜂鸟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HaileyAILabs",
+   "name": "Hailey"
+  },
+  "postUrl": "https://x.com/HaileyAILabs/status/2123317934177317320",
+  "createdAt": "2026-11-19T07:30:19.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123317934177317320/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123317934177317320/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123317934177317320"
+ },
+ {
+  "id": "2123368723872391279",
+  "title": "Comparing model outputs for city building animations",
+  "title_zh": "对比不同模型生成城市建筑的渲染效果",
+  "category": "comparison",
+  "author": {
+   "handle": "Foomingli",
+   "name": "Foo Ming Li"
+  },
+  "postUrl": "https://x.com/Foomingli/status/2123368723872391279",
+  "createdAt": "2026-11-19T10:52:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123368723872391279/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Sol just landed, so I went back to my Silicon Valley style opener, but for London, that I demoed.\n\nSame prompt, both on xhigh. The buildings had to spell LONDON.\n\nGPT-6 Astra · 23m 59s active\nTabletop city in Three.js + HyperFrames. Weirdly, the same prompt seemed to have regressed with the roofs glitching out \n\nGPT-6.2 Sol · 29m 42s active\nSwitched to Blender.\nInterestingly, it used Blender, and was able to pan out nicely from the river and the building reveal was much smoother, and had better details on the buildings",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123368723872391279/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123368723872391279"
+ },
+ {
+  "id": "2123403192604164531",
+  "title": "Iron Man Three.js scene comparison between two models",
+  "title_zh": "钢铁侠Three.js场景生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Quaxguy",
+   "name": "Siddharth Jain"
+  },
+  "postUrl": "https://x.com/Quaxguy/status/2123403192604164531",
+  "createdAt": "2026-11-19T13:09:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123403192604164531/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123403192604164531/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123403192604164531"
+ },
+ {
+  "id": "2123423017015652426",
+  "title": "Three models orbiting the Burj Khalifa",
+  "title_zh": "三个模型构建哈利法塔环绕场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2123423017015652426",
+  "createdAt": "2026-11-19T14:27:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123423017015652426/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123423017015652426/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123423017015652426"
+ },
+ {
+  "id": "2123467647069151691",
+  "title": "Pelican on a bike 3D model comparison",
+  "title_zh": "骑行鹈鹕三维模型的模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "YFarmX",
+   "name": "YFarmX 🗞️"
+  },
+  "postUrl": "https://x.com/YFarmX/status/2123467647069151691",
+  "createdAt": "2026-11-19T17:25:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123467647069151691/video.mp4",
+  "promptShared": true,
+  "promptText": "We gave 4 OpenAI GPT-6 models the same one-shot prompt: build a detailed 3D pelican riding a bike in Three.js 🚲\n\nTime · cost · output tokens · $ per 1M in/out:\n\nGPT-6.2 Astra: 1m45s · $0.32 · 7.6k · $8/$40\nGPT-6.2 Sol: 2m12s · $0.20 · 19.4k · $2/$10\nGPT-6.1 Terra: 2m19s · $0.054 · 10.6k · $1/$5\nGPT-6 Luna: 2m08s · $0.007 · 14.1k · $0.10/$0.50\n\nAstra, the new flagship, barely thought at all: 234 reasoning tokens, first line of code after 11 seconds. It was the fastest and wrote the least code, yet cost 44x what Luna did.\n\nSol wrote the most, twice Astra's code, and has the most detailed road: darker, textured and with visible edges.\n\nTerra came in at about a quarter of Sol's cost. Its road is so pale it almost disappears into the white background.\n\nLuna cost less than a cent, but its road faces down, so it's invisible and only the pebbles show. Two of the Gemini 4 models made the same mistake.\n\nAll four ran first time with no errors and no edits. Same 5.2k-character prompt as my Gemini 4 test, no follow-ups, all through OpenRouter at each model's default reasoning setting.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123467647069151691/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123467647069151691"
+ },
+ {
+  "id": "2123677060451463291",
+  "title": "An eastern dragon rendered in Three.js",
+  "title_zh": "Three.js实时渲染的东方巨龙",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HaileyAILabs",
+   "name": "Hailey"
+  },
+  "postUrl": "https://x.com/HaileyAILabs/status/2123677060451463291",
+  "createdAt": "2026-11-20T07:17:21.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123677060451463291/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123677060451463291/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123677060451463291"
+ },
+ {
+  "id": "2123779357680488815",
+  "title": "A flyover of the Great Wall in Three.js",
+  "title_zh": "使用Three.js生成的长城飞行场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "xiaoanlab",
+   "name": "XiaoAnLab"
+  },
+  "postUrl": "https://x.com/xiaoanlab/status/2123779357680488815",
+  "createdAt": "2026-11-20T14:03:51.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123779357680488815/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123779357680488815/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2123779357680488815"
+ },
+ {
+  "id": "2124052516820451501",
+  "title": "A film set of the White House in Three.js",
+  "title_zh": "使用Three.js生成的白宫拍摄场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "xiaoanlab",
+   "name": "XiaoAnLab"
+  },
+  "postUrl": "https://x.com/xiaoanlab/status/2124052516820451501",
+  "createdAt": "2026-11-21T08:09:17.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124052516820451501/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124052516820451501/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124052516820451501"
+ },
+ {
+  "id": "2124132383456997820",
+  "title": "Beach city comparison across three AI models",
+  "title_zh": "三个 AI 模型的三维海滨城市对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2124132383456997820",
+  "createdAt": "2026-11-21T13:26:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124132383456997820/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124132383456997820/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124132383456997820"
+ },
+ {
+  "id": "2124203254011854973",
+  "title": "Four AI models building the Eiffel Tower",
+  "title_zh": "四种AI模型构建埃菲尔铁塔对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Bhavani_00007",
+   "name": "Bhavy☄️"
+  },
+  "postUrl": "https://x.com/Bhavani_00007/status/2124203254011854973",
+  "createdAt": "2026-11-21T18:08:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124203254011854973/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2124203254011854973/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124203254011854973"
+ },
+ {
+  "id": "2124327691705012445",
+  "title": "Three.js site generation comparison",
+  "title_zh": "Three.js网页生成模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2124327691705012445",
+  "createdAt": "2026-11-22T02:22:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124327691705012445/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124327691705012445/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124327691705012445"
+ },
+ {
+  "id": "2124363647589720344",
+  "title": "Misty mountain waterfall scene rendered in Three.js",
+  "title_zh": "Three.js渲染的太虚云门瀑布场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "YFeng2022",
+   "name": "LanFeng"
+  },
+  "postUrl": "https://x.com/YFeng2022/status/2124363647589720344",
+  "createdAt": "2026-11-22T04:45:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124363647589720344/video.mp4",
+  "promptShared": true,
+  "promptText": "使用 GPT GPT-6.2 Sol Max 做了一半效果不理想，换成了GPT GPT-6.1 Sol Max：基本把《太虚云门》这种情景复原了。\n\n看完后此情此景忽然想吟诗一首：\n\n日照香炉生紫烟，遥看瀑布挂前川。\n飞流直下三千尺，疑是银河落九天。\n\n《太虚云门》：60秒 · 1080p · 24fps\n\n用时：1小时 32分钟 \n纯代码  零 3D 资材   \n  \n技术栈：\nThree.js、Python、NumPy 和 OpenGL GLSL 离屏渲染 \n\n提示词见评论区：\n\n#GPT #Python #AI #opus5 #OpenAI #GPT62sol #大模型 #codex #Fable5 #fable52 #Threejs",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124363647589720344/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124363647589720344"
+ },
+ {
+  "id": "2124379632283828690",
+  "title": "A flyable 3D football game in Three.js",
+  "title_zh": "可飞行交互的三维足球游戏",
+  "category": "game",
+  "author": {
+   "handle": "sonuv_dev",
+   "name": "sou | Ai & Tech"
+  },
+  "postUrl": "https://x.com/sonuv_dev/status/2124379632283828690",
+  "createdAt": "2026-11-22T05:49:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124379632283828690/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124379632283828690/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124379632283828690"
+ },
+ {
+  "id": "2124412588507193799",
+  "title": "A Venice water city scene in Three.js",
+  "title_zh": "威尼斯水城的三维场景可视化",
+  "category": "3d-scene",
+  "author": {
+   "handle": "YFeng2022",
+   "name": "LanFeng"
+  },
+  "postUrl": "https://x.com/YFeng2022/status/2124412588507193799",
+  "createdAt": "2026-11-22T08:00:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124412588507193799/video.mp4",
+  "promptShared": true,
+  "promptText": "我用 GPT GPT-6.2 Sol Max 做了一个《威尼斯水城：倒悬的木森林与现代潮汐防线》：老实讲看完成片，没有理由让它再修改了。因为相当完整，表现的非常出色 。\n\n《威尼斯水城：倒悬的木森林与现代潮汐防线》已完成。52.000 秒，1920×1080，30 fps，五幕 13 镜。 13 条中文文案逐句保留，并配英文字幕。声音全部由 92 BPM 巴洛克器乐与程序化声景组成。\n\n用时：60分钟 \n纯代码 零 3D 资材     \n\n技术栈：\nThree.js、Python、NumPy 和 OpenGL GLSL 离屏渲染 \n\n提示词见评论区：\n\n#GPT62sol #Threejs #AI #opus5 #OpenAI #大模型 #codex #Fable5 #fable52",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124412588507193799/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124412588507193799"
+ },
+ {
+  "id": "2124996079469089039",
+  "title": "Rocket launch animation comparison between two models",
+  "title_zh": "两个AI模型的火箭发射动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "remoteugur",
+   "name": "Uğur Keşkekçi"
+  },
+  "postUrl": "https://x.com/remoteugur/status/2124996079469089039",
+  "createdAt": "2026-11-23T22:38:40.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124996079469089039/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124996079469089039/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2124996079469089039"
+ },
+ {
+  "id": "2125184446408057169",
+  "title": "High altitude terminal velocity scene in Three.js",
+  "title_zh": "Three.js高空极限速度场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "YFeng2022",
+   "name": "LanFeng"
+  },
+  "postUrl": "https://x.com/YFeng2022/status/2125184446408057169",
+  "createdAt": "2026-11-24T11:07:10.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125184446408057169/video.mp4",
+  "promptShared": true,
+  "promptText": "我用 GPT GPT-6.2 Sol Max 做了一个《TERMINAL VELOCITY · 4,000米高空：与重力共振的边缘》：这次花了一些时间，但整体效果还是相当不错，惊险刺激 对于速度和尺度都有实时显示。非常的像Fable5.2的风格。\n\n《TERMINAL VELOCITY · 4,000米高空：与重力共振的边缘》52 秒 · 16:9 · 30 fps · 无旁白。\n\n用时：82分钟 \n纯代码 零 3D 资材     \n\n技术栈：\nThree.js、Python、NumPy 和 OpenGL GLSL 离屏渲染 \n\n提示词见评论区：\n\n#GPT #GPT62sol #Threejs #AI #opus5 #OpenAI #大模型 #codex #Fable5 #fable52",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125184446408057169/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125184446408057169"
+ },
+ {
+  "id": "2125239497986134399",
+  "title": "Simple HTML comparison between two AI models",
+  "title_zh": "两个AI模型的简单HTML对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Sergimcc",
+   "name": "Sergi"
+  },
+  "postUrl": "https://x.com/Sergimcc/status/2125239497986134399",
+  "createdAt": "2026-11-24T14:45:56.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125239497986134399/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125239497986134399/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125239497986134399"
+ },
+ {
+  "id": "2125260680748212357",
+  "title": "Cheerful music video with synchronized visuals and captions",
+  "title_zh": "带有同步画面和字幕的欢快音乐视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "shaunralston",
+   "name": "Shaun Ralston"
+  },
+  "postUrl": "https://x.com/shaunralston/status/2125260680748212357",
+  "createdAt": "2026-11-24T16:10:06.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125260680748212357/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125260680748212357/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125260680748212357"
+ },
+ {
+  "id": "2125270367187169782",
+  "title": "Four models generating an emerald wave",
+  "title_zh": "四个模型生成翡翠波浪场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2125270367187169782",
+  "createdAt": "2026-11-24T16:48:35.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125270367187169782/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra vs Fable 5.2 vs Opus 5.5 vs GPT-6.2 Sol 🌊\n\nIt's always kind of hard to create real people in Three.js. 🏄\nI think Fable 5.2 did pretty well on this one. 👀\nBut it took over 2 hours. GPT-6.2 Sol did it in under 40 minutes, for $3.26. 🤯\n\nSame Emerald Wave prompt:\nGPT-6.2 Astra: $12.52 · 46m 54s\nFable 5.2: $74.26 · 2h 7m 57s\nOpus 5.5: $34.51 · 2h 43m 25s\nGPT-6.2 Sol: $3.26 · 39m 54s\n\nGPT-6.2 Sol: almost 23x cheaper and over 3x faster than Fable 5.2. 😱\nGPT-6.2 Sol: over 10x cheaper and over 4x faster than Opus 5.5. 💀\nGPT-6.2 Astra: almost 6x cheaper and almost 3x faster than Fable 5.2.\n\nWhat do you guys think? 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125270367187169782/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125270367187169782"
  }
 ]
