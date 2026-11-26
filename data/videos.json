@@ -539,7 +539,7 @@
   "durationMs": 61881,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119673965576655211/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119673965576655211/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119673965576655211"
  },
@@ -593,7 +593,7 @@
   "durationMs": 31020,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119715462590398839/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2119715462590398839/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2119715462590398839"
  },
@@ -887,24 +887,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120024150114713936"
  },
  {
-  "id": "2120107337650155798",
-  "title": "Childhood rug turned into a playable game",
-  "title_zh": "将童年地毯制作成可玩赛车游戏",
-  "category": "game",
-  "author": {
-   "handle": "noclipepe",
-   "name": "noclipepe"
-  },
-  "postUrl": "https://x.com/noclipepe/status/2120107337650155798",
-  "createdAt": "2026-11-10T10:52:33.000Z",
-  "durationMs": 54800,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120107337650155798/video.mp4",
-  "promptShared": false,
-  "featured": 4,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2120107337650155798/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2120107337650155798"
- },
- {
   "id": "2120490910278418869",
   "title": "Playable 3D excavator game",
   "title_zh": "可玩的3D挖掘机游戏",
@@ -1136,7 +1118,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122760690855264453/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122760690855264453/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122760690855264453"
  },
@@ -1172,7 +1154,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122771021828948464/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2122771021828948464/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2122771021828948464"
  },
@@ -2372,7 +2354,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125685812654150021/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125685812654150021/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125685812654150021"
  },
@@ -2394,5 +2376,113 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125695099099025428/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125695099099025428"
+ },
+ {
+  "id": "2125923291399704698",
+  "title": "Comparison of 3D Red Square cathedral generations",
+  "title_zh": "三款模型生成的3D红场大教堂对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2125923291399704698",
+  "createdAt": "2026-11-26T12:03:05.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125923291399704698/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125923291399704698/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125923291399704698"
+ },
+ {
+  "id": "2125937318754189455",
+  "title": "Multi-agent system blueprint for parallel video editing",
+  "title_zh": "用于并行视频剪辑的多智能体架构演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Astercripi",
+   "name": "Aster"
+  },
+  "postUrl": "https://x.com/Astercripi/status/2125937318754189455",
+  "createdAt": "2026-11-26T12:58:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125937318754189455/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125937318754189455/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125937318754189455"
+ },
+ {
+  "id": "2125965150515560830",
+  "title": "DevTools network audit of Perplexity model routing",
+  "title_zh": "Perplexity 开发者工具模型路由测试演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "vibelancer",
+   "name": "vibelancer"
+  },
+  "postUrl": "https://x.com/vibelancer/status/2125965150515560830",
+  "createdAt": "2026-11-26T14:49:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125965150515560830/video.mp4",
+  "promptShared": false,
+  "featured": 5,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125965150515560830/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125965150515560830"
+ },
+ {
+  "id": "2125978916569436380",
+  "title": "Red hot ball hitting eight objects in Three.js",
+  "title_zh": "Three.js 红热球碰撞八个物体的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2125978916569436380",
+  "createdAt": "2026-11-26T15:44:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125978916569436380/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125978916569436380/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125978916569436380"
+ },
+ {
+  "id": "2125988908530057367",
+  "title": "Alpine Gold airplane generation benchmark comparison",
+  "title_zh": "Alpine Gold 飞机生成模型对比基准",
+  "category": "comparison",
+  "author": {
+   "handle": "Pan_Ecosystem",
+   "name": "PAN"
+  },
+  "postUrl": "https://x.com/Pan_Ecosystem/status/2125988908530057367",
+  "createdAt": "2026-11-26T16:23:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125988908530057367/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2123029221857456568/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2125988908530057367"
+ },
+ {
+  "id": "2126036406372082082",
+  "title": "Comparison of one-button ski games across four models",
+  "title_zh": "四款模型生成单键滑雪游戏的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "qspro_ai",
+   "name": "QuickSilver Pro"
+  },
+  "postUrl": "https://x.com/qspro_ai/status/2126036406372082082",
+  "createdAt": "2026-11-26T19:32:33.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2126036406372082082/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2126036406372082082/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gpt-6-2-sol/2126036406372082082"
  }
 ]
